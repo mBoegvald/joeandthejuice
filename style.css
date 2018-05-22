@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+    background-color: rgba(240, 240, 240, 0.25);
+
+}
+
+
+section {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+
+
+}
+
+#h1 {
+    background-color: black;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+}
+
+#bmc img {
+    max-width: 1000px;
+
+}
+
+#personas img {
+    width: 1000px;
+}
