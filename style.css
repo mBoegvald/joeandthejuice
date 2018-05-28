@@ -15,7 +15,14 @@ section {
 
 a {
     text-decoration: none;
+    font-size: 1.2em;
+    color: #797979;
 
+
+}
+
+a:hover {
+    color: #333333;
 
 }
 
@@ -27,7 +34,7 @@ a {
 }
 
 #experiencemap img {
-    max-width: 1000px;
+    width: 1000px;
 }
 
 
@@ -44,8 +51,22 @@ a {
     max-width: 247px;
 }
 
+#appikon img {
+    max-width: 497px;
+}
+
 #personas img {
-    max-width: 1000px;
+    width: 1000px;
+}
+
+#moodboard img {
+    width: 1000px;
+
+}
+
+#styletile img {
+    width: 1000px;
+
 }
 
 #scrum video {
