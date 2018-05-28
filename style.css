@@ -10,7 +10,7 @@ body {
 
 section {
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 
 a {
@@ -31,6 +31,10 @@ a:hover {
     color: white;
     font-size: 2em;
     text-align: center;
+}
+
+h2 {
+    font-size: 1.7em;
 }
 
 #experiencemap img {
