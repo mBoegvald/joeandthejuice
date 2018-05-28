@@ -26,15 +26,56 @@ a {
     text-align: center;
 }
 
+#experiencemap img {
+    max-width: 1000px;
+}
+
+
 #bmc img {
     max-width: 1000px;
 
 }
 
+.wide {
+    max-width: 497px;
+}
+
+.narrow {
+    max-width: 247px;
+}
+
 #personas img {
-    width: 1000px;
+    max-width: 1000px;
 }
 
 #scrum video {
-    width: 500px;
+    max-width: 480px;
+    max-height: 300px;
+
+
+}
+
+#storyboard img {
+    max-width: 497px;
+
+}
+
+#charette img {
+    max-width: 1000px;
+}
+
+.scrum_div {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.vandret_div {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.scrum {
+    flex: 1;
 }
