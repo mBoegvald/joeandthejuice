@@ -1,11 +1,14 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
+
 
     background-color: rgba(240, 240, 240, 0.25);
 
 }
+
+
 
 
 section {
@@ -98,6 +101,15 @@ h2 {
 .vandret_div {
     display: flex;
     flex-direction: row;
+
+}
+
+#test img {
+    width: 1000px;
+}
+
+#burndown img {
+    width: 1000px;
 
 }
 
